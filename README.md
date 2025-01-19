@@ -8,14 +8,14 @@ This is a simple transaction management application built with Spring Boot. It a
 - Delete a transaction by ID
 
 ## Technologies Used
-- Java 21
+- Java 8
 - Spring Boot
 - Lombok (for reducing boilerplate code)
 
 ## Setup and Running
 1. Clone the repository
 2. Navigate to the project directory
-3. Run `mvn spring-boot:run`
+3. Run `deply.sh`
 4. Access the application at `http://localhost:8080/api/transactions`
 
 ## Testing
