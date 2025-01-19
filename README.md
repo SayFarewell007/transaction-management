@@ -8,7 +8,7 @@ This is a simple transaction management application built with Spring Boot. It a
 - Delete a transaction by ID
 
 ## Technologies Used
-- Java 8
+- Java 21
 - Spring Boot
 - Lombok (for reducing boilerplate code)
 
